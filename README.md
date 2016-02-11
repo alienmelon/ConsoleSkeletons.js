@@ -8,6 +8,13 @@ This needs to change.
 
 Console Skeleton gives it a strong skeleton presence, that will indefinitely keep your console an entertaining place.
 
+To add Console Skeletons to your website simply copy and paste the following:
+
+```javascript
+<script type="text/javascript" src="consoleskeletons.js"></script>
+<body onload="consoleskeleton('skeletor')">
+```
+
 For a live demo visit:
 <a href="http://skeleton.alienmelon.com/consoleskeletons">http://skeleton.alienmelon.com/consoleskeletons</a>
 (make sure to open your browsers console otherwise you defeat the purpose of Console Skeletons)
@@ -19,7 +26,7 @@ Features:
 
 * Skeleton can dance forever. There is no end. This may engage visitors for longer as they stay fixated on your console.
 
-* In the event you are suspicious of skeletons you can choose other characters such as:
+* In the event you are suspicious of skeletons you can <a href="http://skeleton.alienmelon.com/consoleskeletons">choose other characters</a> such as:
 	- "lolskull"
 	- "barrelroll"
 	- "YMCA"
